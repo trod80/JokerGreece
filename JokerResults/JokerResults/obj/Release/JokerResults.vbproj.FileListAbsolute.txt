@@ -1,0 +1,10 @@
+C:\Users\Panagiotis\Documents\Visual Studio 2013\Projects\JokerResults\JokerResults\bin\Release\JokerResults.exe
+C:\Users\Panagiotis\Documents\Visual Studio 2013\Projects\JokerResults\JokerResults\bin\Release\JokerResults.pdb
+C:\Users\Panagiotis\Documents\Visual Studio 2013\Projects\JokerResults\JokerResults\bin\Release\JokerResults.xml
+C:\Users\Panagiotis\Documents\Visual Studio 2013\Projects\JokerResults\JokerResults\obj\Release\JokerResults.Form1.resources
+C:\Users\Panagiotis\Documents\Visual Studio 2013\Projects\JokerResults\JokerResults\obj\Release\JokerResults.Resources.resources
+C:\Users\Panagiotis\Documents\Visual Studio 2013\Projects\JokerResults\JokerResults\obj\Release\JokerResults.vbproj.GenerateResource.Cache
+C:\Users\Panagiotis\Documents\Visual Studio 2013\Projects\JokerResults\JokerResults\obj\Release\JokerResults.exe
+C:\Users\Panagiotis\Documents\Visual Studio 2013\Projects\JokerResults\JokerResults\obj\Release\JokerResults.xml
+C:\Users\Panagiotis\Documents\Visual Studio 2013\Projects\JokerResults\JokerResults\obj\Release\JokerResults.pdb
+C:\Users\Panagiotis\Documents\Visual Studio 2013\Projects\JokerResults\JokerResults\bin\Release\JokerResults.exe.config
